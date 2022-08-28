@@ -20,7 +20,7 @@ void	rush(int x, int y)
 	int	h;
 
 	h = 1;
-	while (++h <= y)
+	while (h <= y)
 	{
 		s = 1;
 		while (s <= x)
